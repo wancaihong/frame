@@ -7,12 +7,14 @@ __author__='wancaihong'
 __date__='2018/9/27 21:32'
 
 from selenium import webdriver
+from selenium.webdriver.remote import webelement
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import *
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.remote import switch_to
 
 class PublicMethod(object):
     """
@@ -42,6 +44,29 @@ class PublicMethod(object):
             self.driver = driver
         except Exception:
             raise NameError("Not found %s browser, you should enter 'firefox','ff','chrome','internet explorer','ie','opera','safari'." % browser)
+
+    def wait_element_by_name(self, name, timeout=5):
+        """
+       Wait.
+       """
+        try:
+            element = WebDriverWait(self, timeout).until(
+                lambda x: x.find_element_by_name(name))
+        except TimeoutException:
+            element = None
+        return element
+
+    def wait_elements_by_name(self, name, timeout=5):
+        """
+       Wait.
+       """
+        try:
+            elements = WebDriverWait(self, timeout, ignored_exceptions=NoSuchElementException).until(
+            lambda e: e.find_elements_by_name(name)
+            if e.find_elements_by_name(name)[0].is_displayed() else False)
+        except TimeoutException:
+            elements = []
+        return elements
 
     def get_element(self, selector):
         """

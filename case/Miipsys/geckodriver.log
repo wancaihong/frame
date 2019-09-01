@@ -1,0 +1,116 @@
+1539702416796	geckodriver	INFO	geckodriver 0.21.0
+1539702416805	geckodriver	INFO	Listening on 127.0.0.1:62207
+1539702419812	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.r0HT20x3PEfu"
+1539702421992	Marionette	INFO	Listening on port 62216
+1539702422064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539702422107	Marionette	DEBUG	[6442450945] Frame script loaded
+1539702422128	Marionette	DEBUG	[6442450945] Frame script registered
+1539702441978	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539702442101	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539702442231	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539702442288	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539702455842	Marionette	INFO	Stopped listening on port 62216
+[Child 10464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539702512088	geckodriver	INFO	geckodriver 0.21.0
+1539702512099	geckodriver	INFO	Listening on 127.0.0.1:62371
+1539702515103	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.Y4jj428nN6go"
+1539702517467	Marionette	INFO	Listening on port 62387
+1539702517841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539702517867	Marionette	DEBUG	[6442450945] Frame script loaded
+1539702517868	Marionette	DEBUG	[6442450945] Frame script registered
+1539702525545	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539702525574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539702525669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539702525691	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539702530610	Marionette	INFO	Stopped listening on port 62387
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539702658390	geckodriver	INFO	geckodriver 0.21.0
+1539702658400	geckodriver	INFO	Listening on 127.0.0.1:62836
+1539702661388	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.TCAlGcVkvjYg"
+1539702663729	Marionette	INFO	Listening on port 62865
+1539702664129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539702664156	Marionette	DEBUG	[6442450945] Frame script loaded
+1539702664157	Marionette	DEBUG	[6442450945] Frame script registered
+1539702675790	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539702675875	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539702675963	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539702675989	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539702682175	Marionette	INFO	Stopped listening on port 62865
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539702997923	geckodriver	INFO	geckodriver 0.21.0
+1539702997933	geckodriver	INFO	Listening on 127.0.0.1:63382
+1539703000928	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.I7TEkPb0DqWD"
+1539703003303	Marionette	INFO	Listening on port 63391
+1539703003857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539703003883	Marionette	DEBUG	[6442450945] Frame script loaded
+1539703003883	Marionette	DEBUG	[6442450945] Frame script registered
+1539703009416	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539703009524	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539703009623	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539703009642	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539703013782	Marionette	INFO	Stopped listening on port 63391
+[Parent 12560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539703335063	geckodriver	INFO	geckodriver 0.21.0
+1539703335073	geckodriver	INFO	Listening on 127.0.0.1:63742
+1539703338069	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.IswttuGAAPWo"
+1539703340381	Marionette	INFO	Listening on port 63751
+1539703340982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539703341009	Marionette	DEBUG	[6442450945] Frame script loaded
+1539703341009	Marionette	DEBUG	[6442450945] Frame script registered
+1539703346180	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539703346279	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539703346364	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539703346381	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539703352045	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.1.103:2222/miipsys/
+1539703352057	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.1.103:2222/miipsys/
+1539703352058	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.1.103:2222/miipsys/
+1539703352119	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/index.jsp
+1539703352387	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/index.jsp
+1539703383968	Marionette	INFO	Stopped listening on port 63751
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

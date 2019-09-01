@@ -107,3 +107,53 @@ JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyho&j
 [Child 8948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 9084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [GPU 3136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539703457018	geckodriver	INFO	geckodriver 0.21.0
+1539703457040	geckodriver	INFO	Listening on 127.0.0.1:63883
+1539703460021	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.9XaURPlQoXPa"
+1539703462182	Marionette	INFO	Listening on port 63892
+1539703462395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539703462424	Marionette	DEBUG	[6442450945] Frame script loaded
+1539703462425	Marionette	DEBUG	[6442450945] Frame script registered
+1539703462613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539703462635	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539703462728	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/
+1539703462751	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/
+1539703463035	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.1.103:2222/miipsys/
+1539703463050	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.1.103:2222/miipsys/
+1539703463050	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.1.103:2222/miipsys/
+1539703463104	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.1.103:2222/miipsys/index.jsp
+1539703463260	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.1.103:2222/miipsys/index.jsp
+1539703463290	Marionette	INFO	Stopped listening on port 63892
+1539703463320	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/install/Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/install/Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 14292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

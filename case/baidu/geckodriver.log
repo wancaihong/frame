@@ -1,244 +1,36 @@
-1538056255121	geckodriver	INFO	geckodriver 0.21.0
-1538056255160	geckodriver	INFO	Listening on 127.0.0.1:51805
-1538056258335	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.APNUxofSUch4"
-1538056264385	Marionette	INFO	Listening on port 51813
-1538056264506	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538056264543	Marionette	DEBUG	[4294967297] Frame script loaded
-1538056264544	Marionette	DEBUG	[4294967297] Frame script registered
-1538056264816	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
-1538056265027	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538056265544	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538056265604	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=6&pwd=Selen&cb=jQuery110208271067919019519_1538056265470&_=1538056265477, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=5&pwd=Sele&cb=jQuery110208271067919019519_1538056265470&_=1538056265476, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Se&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=2&pwd=S&cb=jQuery110208271067919019519_1538056265470&_=1538056265473, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=4&pwd=Sel&cb=jQuery110208271067919019519_1538056265470&_=1538056265475, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=3&pwd=Se&cb=jQuery110208271067919019519_1538056265470&_=1538056265474, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=S&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=1&cb=jQuery110208271067919019519_1538056265470&_=1538056265472, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=7&pwd=Seleni&cb=jQuery110208271067919019519_1538056265470&_=1538056265478, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=1447_21100_26350_22159&req=2&csor=8&pwd=Seleniu&cb=jQuery110208271067919019519_1538056265470&_=1538056265479, line 1: TypeError: jQuery110208271067919019519_1538056265470 is not a function
-1538056266058	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
-1538056267065	Marionette	INFO	Stopped listening on port 51813
-[Child 3896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 3896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 9812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 9812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 4312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538056268233	geckodriver	INFO	geckodriver 0.21.0
-1538056268247	geckodriver	INFO	Listening on 127.0.0.1:51861
-1538056271238	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.wXxOGZ0Nun17"
-1538056273234	Marionette	INFO	Listening on port 51869
-1538056273377	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538056273405	Marionette	DEBUG	[6442450945] Frame script loaded
-1538056273409	Marionette	DEBUG	[6442450945] Frame script registered
-1538056273493	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538056273628	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538056273900	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538056273946	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Py&json=1&p=3&sid=1422_21104_20719&req=2&csor=2&pwd=P&cb=jQuery110203458492263233012_1538056273828&_=1538056273831, line 1: TypeError: jQuery110203458492263233012_1538056273828 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyh&json=1&p=3&sid=1422_21104_20719&req=2&csor=3&pwd=Py&cb=jQuery110203458492263233012_1538056273828&_=1538056273832, line 1: TypeError: jQuery110203458492263233012_1538056273828 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyho&json=1&p=3&sid=1422_21104_20719&req=2&csor=4&pwd=Pyh&cb=jQuery110203458492263233012_1538056273828&_=1538056273833, line 1: TypeError: jQuery110203458492263233012_1538056273828 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyhon&json=1&p=3&sid=1422_21104_20719&req=2&csor=5&pwd=Pyho&cb=jQuery110203458492263233012_1538056273828&_=1538056273834, line 1: TypeError: jQuery110203458492263233012_1538056273828 is not a function
-1538056274300	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538056275306	Marionette	INFO	Stopped listening on port 51869
-[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 10876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538056660468	geckodriver	INFO	geckodriver 0.21.0
-1538056660483	geckodriver	INFO	Listening on 127.0.0.1:52183
-1538056663477	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.4ucMehNSe0Ka"
-[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538056666012	Marionette	INFO	Listening on port 52191
-1538056666233	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538056666264	Marionette	DEBUG	[6442450945] Frame script loaded
-1538056666265	Marionette	DEBUG	[6442450945] Frame script registered
-1538056666363	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538056666625	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538056666884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538056666957	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=1431_21093_22073&req=2&csor=3&pwd=Se&cb=jQuery1102028775569427247183_1538056666811&_=1538056666815, line 1: TypeError: jQuery1102028775569427247183_1538056666811 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=1431_21093_22073&req=2&csor=4&pwd=Sel&cb=jQuery1102028775569427247183_1538056666811&_=1538056666816, line 1: TypeError: jQuery1102028775569427247183_1538056666811 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=1431_21093_22073&req=2&csor=8&pwd=Seleniu&cb=jQuery1102028775569427247183_1538056666811&_=1538056666820, line 1: TypeError: jQuery1102028775569427247183_1538056666811 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=1431_21093_22073&req=2&csor=5&pwd=Sele&cb=jQuery1102028775569427247183_1538056666811&_=1538056666817, line 1: TypeError: jQuery1102028775569427247183_1538056666811 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=1431_21093_22073&req=2&csor=7&pwd=Seleni&cb=jQuery1102028775569427247183_1538056666811&_=1538056666819, line 1: TypeError: jQuery1102028775569427247183_1538056666811 is not a function
-1538056667321	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538056698779	Marionette	INFO	Stopped listening on port 52191
-[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 9880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 2420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539702343596	geckodriver	INFO	geckodriver 0.21.0
+1539702343641	geckodriver	INFO	Listening on 127.0.0.1:62076
+1539702346800	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.HtQu60uLOQA2"
+IPDL protocol error: Handler returned error code!
 
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
-1538056699569	geckodriver	INFO	geckodriver 0.21.0
-1538056699582	geckodriver	INFO	Listening on 127.0.0.1:52237
-1538056702574	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.secc1EgQK1qA"
-1538056704557	Marionette	INFO	Listening on port 52246
-1538056704732	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538056704761	Marionette	DEBUG	[6442450945] Frame script loaded
-1538056704762	Marionette	DEBUG	[6442450945] Frame script registered
-1538056704853	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538056705061	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538056705447	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538056705558	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Py&json=1&p=3&sid=1448_21126_18559_26350_22072&req=2&csor=2&pwd=P&cb=jQuery1102027321158937110757_1538056705298&_=1538056705301, line 1: TypeError: jQuery1102027321158937110757_1538056705298 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyho&json=1&p=3&sid=1448_21126_18559_26350_22072&req=2&csor=4&pwd=Pyh&cb=jQuery1102027321158937110757_1538056705298&_=1538056705303, line 1: TypeError: jQuery1102027321158937110757_1538056705298 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyhon&json=1&p=3&sid=1448_21126_18559_26350_22072&req=2&csor=5&pwd=Pyho&cb=jQuery1102027321158937110757_1538056705298&_=1538056705304, line 1: TypeError: jQuery1102027321158937110757_1538056705298 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=P&json=1&p=3&sid=1448_21126_18559_26350_22072&req=2&csor=1&cb=jQuery1102027321158937110757_1538056705298&_=1538056705300, line 1: TypeError: jQuery1102027321158937110757_1538056705298 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyh&json=1&p=3&sid=1448_21126_18559_26350_22072&req=2&csor=3&pwd=Py&cb=jQuery1102027321158937110757_1538056705298&_=1538056705302, line 1: TypeError: jQuery1102027321158937110757_1538056705298 is not a function
-1538056705907	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538056756841	Marionette	INFO	Stopped listening on port 52246
-[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 10736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538134835032	geckodriver	INFO	geckodriver 0.21.0
-1538134835115	geckodriver	INFO	Listening on 127.0.0.1:50775
-1538134838224	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.lTEeohUfkD7k"
-1538134844317	Marionette	INFO	Listening on port 50783
-1538134844812	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538134844841	Marionette	DEBUG	[4294967297] Frame script loaded
-1538134844842	Marionette	DEBUG	[4294967297] Frame script registered
-1538134845020	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
-1538134845249	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538134845779	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538134845832	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Se&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=2&pwd=S&cb=jQuery1102019814508562664468_1538134845713&_=1538134845716, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=S&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=1&cb=jQuery1102019814508562664468_1538134845713&_=1538134845715, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=3&pwd=Se&cb=jQuery1102019814508562664468_1538134845713&_=1538134845717, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=5&pwd=Sele&cb=jQuery1102019814508562664468_1538134845713&_=1538134845719, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=4&pwd=Sel&cb=jQuery1102019814508562664468_1538134845713&_=1538134845718, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=7&pwd=Seleni&cb=jQuery1102019814508562664468_1538134845713&_=1538134845721, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=8&pwd=Seleniu&cb=jQuery1102019814508562664468_1538134845713&_=1538134845722, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=1425_21096_26350_20928&req=2&csor=6&pwd=Selen&cb=jQuery1102019814508562664468_1538134845713&_=1538134845720, line 1: TypeError: jQuery1102019814508562664468_1538134845713 is not a function
-1538134846341	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
-1538134847347	Marionette	INFO	Stopped listening on port 50783
-[Child 1260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 5468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 4296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 4296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 5468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 2488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
 
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
-1538134848214	geckodriver	INFO	geckodriver 0.21.0
-1538134848227	geckodriver	INFO	Listening on 127.0.0.1:50833
-1538134851227	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.iXjnvK6hpcQK"
-1538134853126	Marionette	INFO	Listening on port 50843
-1538134853355	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538134853381	Marionette	DEBUG	[6442450945] Frame script loaded
-1538134853382	Marionette	DEBUG	[6442450945] Frame script registered
-1538134853460	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538134853635	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539702349586	Marionette	INFO	Listening on port 62089
+1539702350047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539702350073	Marionette	DEBUG	[4294967297] Frame script loaded
+1539702350074	Marionette	DEBUG	[4294967297] Frame script registered
+1539702350191	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539702350489	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
 JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538134853883	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538134853928	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Py&json=1&p=3&sid=1451_27209_21111_26350&req=2&csor=2&pwd=P&cb=jQuery110205362529559239164_1538134853821&_=1538134853824, line 1: TypeError: jQuery110205362529559239164_1538134853821 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyh&json=1&p=3&sid=1451_27209_21111_26350&req=2&csor=3&pwd=Py&cb=jQuery110205362529559239164_1538134853821&_=1538134853825, line 1: TypeError: jQuery110205362529559239164_1538134853821 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyho&json=1&p=3&sid=1451_27209_21111_26350&req=2&csor=4&pwd=Pyh&cb=jQuery110205362529559239164_1538134853821&_=1538134853826, line 1: TypeError: jQuery110205362529559239164_1538134853821 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyhon&json=1&p=3&sid=1451_27209_21111_26350&req=2&csor=5&pwd=Pyho&cb=jQuery110205362529559239164_1538134853821&_=1538134853827, line 1: TypeError: jQuery110205362529559239164_1538134853821 is not a function
-1538134854269	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538134855275	Marionette	INFO	Stopped listening on port 50843
-[Parent 4052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 5452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 5452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 4052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 4052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 9068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538316413708	geckodriver	INFO	geckodriver 0.21.0
-1538316413779	geckodriver	INFO	Listening on 127.0.0.1:53583
-1538316416866	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.lDez626GS2an"
-1538316419245	geckodriver	INFO	geckodriver 0.21.0
-1538316419258	geckodriver	INFO	Listening on 127.0.0.1:53594
-1538316422251	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.gbbdBMhUmdcq"
-1538316469640	geckodriver	INFO	geckodriver 0.21.0
-1538316469654	geckodriver	INFO	Listening on 127.0.0.1:53632
-1538316472650	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.O8HqCThc8cJw"
-1538316474805	Marionette	INFO	Listening on port 53640
-1538316474914	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538316474946	Marionette	DEBUG	[6442450945] Frame script loaded
-1538316474951	Marionette	DEBUG	[6442450945] Frame script registered
-1538316475056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538316475464	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538316475731	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538316475798	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=S&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=1&cb=jQuery110207577127091476089_1538316475639&_=1538316475641, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=3&pwd=Se&cb=jQuery110207577127091476089_1538316475639&_=1538316475643, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=4&pwd=Sel&cb=jQuery110207577127091476089_1538316475639&_=1538316475644, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=6&pwd=Selen&cb=jQuery110207577127091476089_1538316475639&_=1538316475646, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=5&pwd=Sele&cb=jQuery110207577127091476089_1538316475639&_=1538316475645, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=8&pwd=Seleniu&cb=jQuery110207577127091476089_1538316475639&_=1538316475648, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=1445_21111_18560_27245&req=2&csor=7&pwd=Seleni&cb=jQuery110207577127091476089_1538316475639&_=1538316475647, line 1: TypeError: jQuery110207577127091476089_1538316475639 is not a function
-1538316476321	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538316479328	Marionette	INFO	Stopped listening on port 53640
-[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 9040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1552, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
-[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 9040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 7188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1538316480162	geckodriver	INFO	geckodriver 0.21.0
-1538316480175	geckodriver	INFO	Listening on 127.0.0.1:53683
-1538316483185	mozrunner::runner	INFO	Running command: "E:\\install\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ch\\AppData\\Local\\Temp\\rust_mozprofile.bl3C0B3uIWDs"
-1538316485343	Marionette	INFO	Listening on port 53691
-1538316485441	Marionette	WARN	TLS certificate errors will be ignored for this session
-1538316485471	Marionette	DEBUG	[6442450945] Frame script loaded
-1538316485474	Marionette	DEBUG	[6442450945] Frame script registered
-1538316485610	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1538316485829	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
-1538316486243	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
-1538316486301	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=P&json=1&p=3&sid=1434_21125_26350_27244&req=2&csor=1&cb=jQuery110206846476196762681_1538316486109&_=1538316486111, line 1: TypeError: jQuery110206846476196762681_1538316486109 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyh&json=1&p=3&sid=1434_21125_26350_27244&req=2&csor=3&pwd=Py&cb=jQuery110206846476196762681_1538316486109&_=1538316486113, line 1: TypeError: jQuery110206846476196762681_1538316486109 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Py&json=1&p=3&sid=1434_21125_26350_27244&req=2&csor=2&pwd=P&cb=jQuery110206846476196762681_1538316486109&_=1538316486112, line 1: TypeError: jQuery110206846476196762681_1538316486109 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyho&json=1&p=3&sid=1434_21125_26350_27244&req=2&csor=4&pwd=Pyh&cb=jQuery110206846476196762681_1538316486109&_=1538316486114, line 1: TypeError: jQuery110206846476196762681_1538316486109 is not a function
-JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Pyhon&json=1&p=3&sid=1434_21125_26350_27244&req=2&csor=5&pwd=Pyho&cb=jQuery110206846476196762681_1538316486109&_=1538316486115, line 1: TypeError: jQuery110206846476196762681_1538316486109 is not a function
-1538316486671	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
-1538316489679	Marionette	INFO	Stopped listening on port 53691
-[Child 11880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 11440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 11440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 11856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 11724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539702351418	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539702351494	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sel&json=1&p=3&sid=1469_21127_22074&req=2&csor=3&pwd=Se&cb=jQuery110206102314334634352_1539702351347&_=1539702351351, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleniu&json=1&p=3&sid=1469_21127_22074&req=2&csor=7&pwd=Seleni&cb=jQuery110206102314334634352_1539702351347&_=1539702351355, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=1469_21127_22074&req=2&csor=5&pwd=Sele&cb=jQuery110206102314334634352_1539702351347&_=1539702351353, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Sele&json=1&p=3&sid=1469_21127_22074&req=2&csor=4&pwd=Sel&cb=jQuery110206102314334634352_1539702351347&_=1539702351352, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selenium&json=1&p=3&sid=1469_21127_22074&req=2&csor=8&pwd=Seleniu&cb=jQuery110206102314334634352_1539702351347&_=1539702351356, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=1469_21127_22074&req=2&csor=6&pwd=Selen&cb=jQuery110206102314334634352_1539702351347&_=1539702351354, line 1: TypeError: jQuery110206102314334634352_1539702351347 is not a function
+1539702351856	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[Parent 3792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539702356516	Marionette	INFO	Stopped listening on port 62089
+[GPU 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
